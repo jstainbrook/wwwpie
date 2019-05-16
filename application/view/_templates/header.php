@@ -49,4 +49,4 @@
         <a href="<?php echo URL; ?>home/exampletwo">subpage 2</a>
         <a href="<?php echo URL; ?>songs">songs</a>
     </div>
-</div<
+</div>
